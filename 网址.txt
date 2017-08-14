@@ -1,0 +1,20 @@
+		https://git.oschina.net/     码云网页地址
+
+链接：http://pan.baidu.com/s/1kVzbg6j 密码：ofct
+
+
+https://guthub187.github.io/xiaom/xiao/              小米
+https://guthub187.github.io/haodai/haod/      好贷
+es6链接：http://pan.baidu.com/s/1mi3I7va 密码：ekvi
+https://guthub187.github.io/shanzhu/%E9%97%AA%E6%B3%A8/    闪注（github）
+http://wbu.oschina.io/shanzhu/%E9%97%AA%E6%B3%A8/      闪注（码云）
+http://www.jb51.net/article/46154.htm        数组去重
+http://www.cnblogs.com/ZxrGloria/p/5316969.html       数组排序
+http://wbu.oschina.io/xinlang/%E6%96%B0%E6%B5%AA/	   新浪网址
+http://wbu.oschina.io/7_25/wode/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1tab%E5%88%87%E6%8D%A2.html	面向对象tab切换
+http://wbu.oschina.io/7_25/wode/%E5%90%B4%E6%B3%A2%E5%B7%A5%E5%8E%82%E5%87%BD%E6%95%B0.html	吴波工厂函数
+http://wbu.oschina.io/7_25/wode/%E5%90%B4%E6%B3%A2%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0.html	吴波构造函数
+http://wbu.oschina.io/tabt/tab/         es6面向对象tab切换
+http://wbu.oschina.io/vuecli/dist/        vue脚手架（路由）
+http://wbu.oschina.io/vueclitou/dist/#/tui    今日头条（vue）
+http://element.eleme.io/#/zh-CN/component/form     element-ui
